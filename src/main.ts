@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import '@/languages/ml.js'
 
 Vue.config.productionTip = false
 

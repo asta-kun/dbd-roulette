@@ -1,0 +1,23 @@
+:root{
+	--primary-color: #1f2020;
+	--secondary-color: #1f4068;
+	--text-color: #fff;
+	--text-color-accent: #e43f5a;
+	--border-accent: #e43f5a;
+	--background-color: #353535;
+}
+
+body{
+	background: var(--background-color);
+	color: var(--text-color);
+	min-height: 100vh;
+	font-size: 16px;
+	margin: 0 auto;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
