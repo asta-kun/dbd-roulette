@@ -13,7 +13,7 @@
       <nav class="external-links">
           <ul>
               <li>
-                  <a href="/" title="Github"><FontAwesomeIcon :icon="['fab', 'github']" size="lg" /></a>
+                  <a href="https://github.com/asta-kun/dbd-roulette/" title="Github" target="_blank"><FontAwesomeIcon :icon="['fab', 'github']" size="lg" /></a>
               </li>
           </ul>
       </nav>

@@ -136,6 +136,12 @@ export default {
       font-style italic
       display block
       margin-top 1em
+    & .Highlight1
+      color #e8c252 !important
+    & .Highlight3
+      color #ac3ee3 !important
+    & .Highlight2
+      color #ac3ee3 !important
   & .character
     width 20%
     display flex
